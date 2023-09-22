@@ -6,6 +6,7 @@ ALGORITHM:
 
 
 PROGRAM:
+```
 c
 #include<stdio.h>
 int main()
@@ -49,7 +50,7 @@ printf("\n %d\t %d\t %d\t %d\t %d\t %d\t %d\t%5.2f",i,at[i],bt[i],st[i],ft[i],wt
 }
 printf("\n--------------------------------------------------------------");
 printf("\n Average waiting time is %5.2f\n average tat is%5.2f",awt,atat); }
-
+```
 
 OUTPUT:
 
@@ -63,6 +64,7 @@ ALGORITHM:
 
 
 PROGRAM:
+```
 c
 #include<stdio.h>
 int main()
@@ -124,7 +126,7 @@ printf("\nAverage waiting time is %5.2f",awt);
 printf("\nAverage turn around time is %5.2f",att);
 }
 
-
+```
 OUTPUT:
 
 
@@ -150,6 +152,7 @@ ALGORITHM:
 
 
 ## PROGRAM:
+```
 c
 #include<stdio.h>
 int main()
@@ -268,7 +271,7 @@ printf("\nAvg waiting time is %5.2f ",awt );
 printf("\nAvg turn around time is %5.2f",atat);
 }
 
-
+```
 OUTPUT:
 
 
@@ -295,6 +298,7 @@ ALGORITHM:
 
 
 PROGRAM:
+```
 c
 #include<stdio.h>
 int main()
@@ -371,7 +375,7 @@ awt=awt/n;
 printf("The average waiting time is: %5.2f\n",awt);
 printf("The average turn around time is: %5.2f",atat);
 }
-
+```
 OUTPUT:
 
 
